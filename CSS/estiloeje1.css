@@ -4,15 +4,35 @@
     margin: 9px;
 }
 */
+
+/*  Fuentes para usar
+font-family: 'Montserrat', sans-serif;
+font-family: 'Allerta', sans-serif;
+*/
+body{
+    font-family: 'Allerta', sans-serif;
+}
 .titulo{
+    font-family: 'Montserrat', sans-serif;
     font-size: 70px;
 }
 .resumen{
     font-size: 24px;
 }
+.modelos{
+    color: #1F313C;
+}
 .modelos h2{
+    font-family: 'Montserrat', sans-serif;
     font-size: 35px;
 }
-.modelo {
+.modelo{
     font-size: 50px;
+}
+.portada{
+    background-image: url('../images/background.jpg');
+    color: white;
+}
+.menu{
+    font-size: 24px;
 }

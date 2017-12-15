@@ -1,6 +1,18 @@
+/*  Selector universal muestra posicion inicial
 *{
     border: 1px solid blue;
     margin: 9px;
-
-
+}
+*/
+.titulo{
+    font-size: 70px;
+}
+.resumen{
+    font-size: 24px;
+}
+.modelos h2{
+    font-size: 35px;
+}
+.modelo {
+    font-size: 50px;
 }

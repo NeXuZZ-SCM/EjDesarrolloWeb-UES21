@@ -36,3 +36,6 @@ body{
 .menu{
     font-size: 24px;
 }
+.menu li{
+    display: inline-block;
+}

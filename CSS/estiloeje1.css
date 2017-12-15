@@ -9,6 +9,15 @@
 font-family: 'Montserrat', sans-serif;
 font-family: 'Allerta', sans-serif;
 */
+
+*{
+    margin:10px;
+    padding:10px ;
+    border: 2px solid red;
+/*    width: ;
+    height: ;*/
+
+}
 body{
     font-family: 'Allerta', sans-serif;
 }
@@ -35,7 +44,11 @@ body{
 }
 .menu{
     font-size: 24px;
+    display: inline-block;
 }
 .menu li{
+    display: inline-block;
+}
+.logotipo{
     display: inline-block;
 }
